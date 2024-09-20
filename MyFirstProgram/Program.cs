@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Tim Lappalainen NET2024
 Console.WriteLine("Skriv in ett nummer");
 
 int number;
